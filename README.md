@@ -1,4 +1,7 @@
+离子电导率关联模型测试
 
+对应 GitHub 目录：
+https://github.com/wubobin/06-SZLAB-01/tree/main/1.2Ionic_ecw_test/ionic_cond_test_package/test
 
 本部分涉及的现有文件如下：
 
