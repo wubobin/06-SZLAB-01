@@ -1,0 +1,43 @@
+# strict-generated from source JSON
+data_7084332_High-Ionic-Conductivity-Achiev__s000
+_symmetry_space_group_name_H-M   'C2/m'
+_symmetry_Int_Tables_number   12
+_cell_length_a   6.70680000
+_cell_length_b   11.61720000
+_cell_length_c   6.63290000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   109.67500000
+_cell_angle_gamma   90.00000000
+_chemical_formula_structural   Li3YBr3Cl3
+_chemical_formula_sum   'Li3YBr3Cl3'
+
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  '-x+1/2, -y+1/2, -z'
+  2  '-x+1/2, y+1/2, -z'
+  3  '-x, -y, -z'
+  4  '-x, y, -z'
+  5  'x+1/2, -y+1/2, z'
+  6  'x+1/2, y+1/2, z'
+  7  'x, -y, z'
+  8  'x, y, z'
+
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li0  Li  4  h  0.00000000  0.19500000  0.50000000  0.39000000
+  Li1  Li  4  g  0.00000000  0.33364000  0.00000000  0.64000000
+  Li2  Li  8  j  0.15000000  0.33300000  0.37100000  0.23600000
+  Y3  Y  4  g  0.00000000  0.33364000  0.00000000  0.19500000
+  Y4  Y  2  a  0.00000000  0.00000000  0.00000000  0.61000000
+  Br5  Br  8  j  0.24920000  0.16790000  0.24100000  0.55900000
+  Cl6  Cl  8  j  0.24920000  0.16790000  0.24100000  0.44100000
+  Br7  Br  4  i  0.75040000  0.00000000  0.24170000  0.38000000
+  Cl8  Cl  4  i  0.75040000  0.00000000  0.24170000  0.62000000

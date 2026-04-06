@@ -1,0 +1,39 @@
+# strict-generated from source JSON
+data_Encapsulating-and-Operating-a_Encapsulating-and-Operating-a__s000
+_symmetry_space_group_name_H-M   'C2/m'
+_symmetry_Int_Tables_number   12
+_cell_length_a   6.89060000
+_cell_length_b   11.93430000
+_cell_length_c   6.83370000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   109.69240000
+_cell_angle_gamma   90.00000000
+_chemical_formula_structural   Li3ErBr6
+_chemical_formula_sum   'Li3ErBr6'
+
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  '-x+1/2, -y+1/2, -z'
+  2  '-x+1/2, y+1/2, -z'
+  3  '-x, -y, -z'
+  4  '-x, y, -z'
+  5  'x+1/2, -y+1/2, z'
+  6  'x+1/2, y+1/2, z'
+  7  'x, -y, z'
+  8  'x, y, z'
+
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Br0  Br  8  j  0.24784000  0.83324000  0.24601000  1.00000000
+  Br1  Br  4  i  0.75080000  0.00000000  0.24245000  1.00000000
+  Li2  Li  4  h  0.00000000  0.19740000  0.50000000  0.50000000
+  Li3  Li  4  g  0.00000000  0.84060000  0.00000000  1.00000000
+  Er4  Er  2  a  0.00000000  0.00000000  0.00000000  1.00000000

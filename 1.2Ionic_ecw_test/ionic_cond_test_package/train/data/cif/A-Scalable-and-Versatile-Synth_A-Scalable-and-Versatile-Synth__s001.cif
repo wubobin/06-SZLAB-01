@@ -1,0 +1,42 @@
+# no-wyckoff strict-generated from source JSON
+data_A-Scalable-and-Versatile-Synth_A-Scalable-and-Versatile-Synth__s001
+_symmetry_space_group_name_H-M   'P-3m1'
+_symmetry_Int_Tables_number   164
+_cell_length_a   11.18200000
+_cell_length_b   11.18200000
+_cell_length_c   6.04730000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  '-x+y, -x, z'
+  2  '-x+y, y, z'
+  3  '-x, -x+y, -z'
+  4  '-x, -y, -z'
+  5  '-y, -x, z'
+  6  '-y, x-y, z'
+  7  'x, x-y, z'
+  8  'x, y, z'
+  9  'x-y, -y, -z'
+  10  'x-y, x, -z'
+  11  'y, -x+y, -z'
+  12  'y, x, -z'
+
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li0  Li  0.35000000  0.35000000  0.00000000  1.00000000
+  Li1  Li  0.28600000  0.00000000  0.50000000  0.50000000
+  Y2  Y  0.00000000  0.00000000  0.00000000  1.00000000
+  Y3  Y  0.33330000  0.66670000  0.51000000  0.97000000
+  Y4  Y  0.33330000  0.66670000  0.05800000  0.03000000
+  Cl5  Cl  0.11370000  0.88630000  0.76770000  1.00000000
+  Cl6  Cl  0.22139000  0.77861000  0.26660000  1.00000000
+  Cl7  Cl  0.44547000  0.55453000  0.75530000  1.00000000

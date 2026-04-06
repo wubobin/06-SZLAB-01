@@ -1,0 +1,47 @@
+# no-wyckoff strict-generated from source JSON
+data_Superionic-halide-solid-electr_Superionic-halide-solid-electr__s001
+_symmetry_space_group_name_H-M   'P-3m1'
+_symmetry_Int_Tables_number   164
+_cell_length_a   10.94070000
+_cell_length_b   10.94070000
+_cell_length_c   5.92200000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  '-x+y, -x, z'
+  2  '-x+y, y, z'
+  3  '-x, -x+y, -z'
+  4  '-x, -y, -z'
+  5  '-y, -x, z'
+  6  '-y, x-y, z'
+  7  'x, x-y, z'
+  8  'x, y, z'
+  9  'x-y, -y, -z'
+  10  'x-y, x, -z'
+  11  'y, -x+y, -z'
+  12  'y, x, -z'
+
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li0  Li  0.31437000  0.00000000  0.00000000  0.16000000
+  Li1  Li  0.33168000  0.00000000  0.50000000  0.69000000
+  Zr2  Zr  0.00000000  0.00000000  0.00000000  0.18600000
+  Ta3  Ta  0.00000000  0.00000000  0.00000000  0.23800000
+  Zr4  Zr  0.33333000  0.66667000  0.56805000  0.33100000
+  Ta5  Ta  0.33333000  0.66667000  0.56805000  0.20800000
+  Zr6  Zr  0.00000000  0.00000000  0.50000000  0.54600000
+  Ta7  Ta  0.00000000  0.00000000  0.50000000  0.10100000
+  Zr8  Zr  0.33333000  0.66667000  0.97111000  0.35300000
+  Ta9  Ta  0.33333000  0.66667000  0.97111000  0.07200000
+  Cl10  Cl  0.10650000  -0.10650000  0.74902000  1.00000000
+  Cl11  Cl  0.23051000  -0.23051000  0.25894000  1.00000000
+  Cl12  Cl  0.44247000  -0.44247000  0.75603000  1.00000000

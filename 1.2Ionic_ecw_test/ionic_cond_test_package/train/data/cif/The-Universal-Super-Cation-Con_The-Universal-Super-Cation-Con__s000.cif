@@ -1,0 +1,44 @@
+# strict-generated from source JSON
+data_The-Universal-Super-Cation-Con_The-Universal-Super-Cation-Con__s000
+_symmetry_space_group_name_H-M   'P63/m'
+_symmetry_Int_Tables_number   176
+_cell_length_a   7.46510000
+_cell_length_b   7.46510000
+_cell_length_c   4.35120000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_chemical_formula_structural   Li0.74Ta0.024La0.357Ce0.357Cl3
+_chemical_formula_sum   'Li0.74Ta0.024La0.357Ce0.357Cl3'
+
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  '-x+y, -x, -z-1/2'
+  2  '-x+y, -x, z'
+  3  '-x, -y, -z'
+  4  '-x, -y, z+1/2'
+  5  '-y, x-y, -z-1/2'
+  6  '-y, x-y, z'
+  7  'x, y, -z-1/2'
+  8  'x, y, z'
+  9  'x-y, x, -z'
+  10  'x-y, x, z+1/2'
+  11  'y, -x+y, -z'
+  12  'y, -x+y, z+1/2'
+
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li0  Li  2  b  0.00000000  0.00000000  0.00000000  0.44000000
+  Li1  Li  6  h  0.15130000  0.66150000  0.25000000  0.10000000
+  Ta2  Ta  6  h  0.15130000  0.66150000  0.25000000  0.00800000
+  La3  La  2  c  0.33330000  0.66670000  0.25000000  0.35700000
+  Ce4  Ce  2  c  0.33330000  0.66670000  0.25000000  0.35700000
+  Cl5  Cl  6  h  0.39180000  0.30020000  0.25000000  1.00000000

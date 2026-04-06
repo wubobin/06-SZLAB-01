@@ -1,0 +1,67 @@
+# strict-generated from source JSON
+data_7084293_Atmospheric-Pressure-Operation__s000
+_symmetry_space_group_name_H-M   'R-3m'
+_symmetry_Int_Tables_number   166
+_cell_length_a   3.86250000
+_cell_length_b   3.86250000
+_cell_length_c   18.67840000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_chemical_formula_structural   Li3YBr2Cl4
+_chemical_formula_sum   'Li3YBr2Cl4'
+
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  '-x+1/3, -x+y+2/3, -z+2/3'
+  2  '-x+1/3, -y+2/3, -z+2/3'
+  3  '-x+2/3, -x+y+1/3, -z+1/3'
+  4  '-x+2/3, -y+1/3, -z+1/3'
+  5  '-x+y+1/3, -x+2/3, z+2/3'
+  6  '-x+y+1/3, y+2/3, z+2/3'
+  7  '-x+y+2/3, -x+1/3, z+1/3'
+  8  '-x+y+2/3, y+1/3, z+1/3'
+  9  '-x+y, -x, z'
+  10  '-x+y, y, z'
+  11  '-x, -x+y, -z'
+  12  '-x, -y, -z'
+  13  '-y+1/3, -x+2/3, z+2/3'
+  14  '-y+1/3, x-y+2/3, z+2/3'
+  15  '-y+2/3, -x+1/3, z+1/3'
+  16  '-y+2/3, x-y+1/3, z+1/3'
+  17  '-y, -x, z'
+  18  '-y, x-y, z'
+  19  'x+1/3, x-y+2/3, z+2/3'
+  20  'x+1/3, y+2/3, z+2/3'
+  21  'x+2/3, x-y+1/3, z+1/3'
+  22  'x+2/3, y+1/3, z+1/3'
+  23  'x, x-y, z'
+  24  'x, y, z'
+  25  'x-y+1/3, -y+2/3, -z+2/3'
+  26  'x-y+1/3, x+2/3, -z+2/3'
+  27  'x-y+2/3, -y+1/3, -z+1/3'
+  28  'x-y+2/3, x+1/3, -z+1/3'
+  29  'x-y, -y, -z'
+  30  'x-y, x, -z'
+  31  'y+1/3, -x+y+2/3, -z+2/3'
+  32  'y+1/3, x+2/3, -z+2/3'
+  33  'y+2/3, -x+y+1/3, -z+1/3'
+  34  'y+2/3, x+1/3, -z+1/3'
+  35  'y, -x+y, -z'
+  36  'y, x, -z'
+
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y0  Y  3  b  0.00000000  0.00000000  0.50000000  0.33300000
+  Br1  Br  6  c  0.00000000  0.00000000  0.25200000  0.33300000
+  Cl2  Cl  6  c  0.00000000  0.00000000  0.25200000  0.66600000
+  Li3  Li  3  a  0.00000000  0.00000000  0.00000000  0.33300000
+  Li4  Li  3  b  0.00000000  0.00000000  0.50000000  0.66600000

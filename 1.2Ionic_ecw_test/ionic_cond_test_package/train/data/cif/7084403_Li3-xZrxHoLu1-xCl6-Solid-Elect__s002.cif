@@ -1,0 +1,41 @@
+# strict-generated from source JSON
+data_7084403_Li3-xZrxHoLu1-xCl6-Solid-Elect__s002
+_symmetry_space_group_name_H-M   'Pnma'
+_symmetry_Int_Tables_number   62
+_cell_length_a   12.83480000
+_cell_length_b   11.11140000
+_cell_length_c   6.01498000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_chemical_formula_structural   Li3LuCl6
+_chemical_formula_sum   'Li3LuCl6'
+
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  '-x+1/2, -y, z+1/2'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z'
+  4  '-x-1/2, y-1/2, z-1/2'
+  5  'x+1/2, -y+1/2, -z+1/2'
+  6  'x, -y-1/2, z'
+  7  'x, y, z'
+  8  'x-1/2, y, -z-1/2'
+
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li0  Li  8  d  0.13100000  0.07100000  0.00600000  0.88200000
+  Li1  Li  8  d  0.14100000  0.08100000  0.43600000  0.64700000
+  Lu2  Lu  4  c  0.37540000  0.25000000  0.01100000  1.00000000
+  Cl3  Cl  8  d  0.20750000  0.58070000  0.27180000  1.00000000
+  Cl4  Cl  8  d  0.45720000  0.08200000  0.25430000  1.00000000
+  Cl5  Cl  4  c  0.04300000  0.25000000  0.73000000  1.00000000
+  Cl6  Cl  4  c  0.20700000  0.25000000  0.23500000  1.00000000

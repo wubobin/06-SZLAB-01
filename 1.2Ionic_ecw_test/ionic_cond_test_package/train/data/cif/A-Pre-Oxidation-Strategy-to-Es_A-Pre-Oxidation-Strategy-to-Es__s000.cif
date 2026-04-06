@@ -1,0 +1,42 @@
+# no-wyckoff strict-generated from source JSON
+data_A-Pre-Oxidation-Strategy-to-Es_A-Pre-Oxidation-Strategy-to-Es__s000
+_symmetry_space_group_name_H-M   'C2/m'
+_symmetry_Int_Tables_number   12
+_cell_length_a   6.93100000
+_cell_length_b   11.47700000
+_cell_length_c   6.64900000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   110.52000000
+_cell_angle_gamma   90.00000000
+
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  '-x+1/2, -y+1/2, -z'
+  2  '-x+1/2, y+1/2, -z'
+  3  '-x, -y, -z'
+  4  '-x, y, -z'
+  5  'x+1/2, -y+1/2, z'
+  6  'x+1/2, y+1/2, z'
+  7  'x, -y, z'
+  8  'x, y, z'
+
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li0  Li  0.00000000  0.16160000  0.50000000  0.21600000
+  Li1  Li  0.00000000  0.33230000  0.00000000  0.44500000
+  Li2  Li  0.15220000  0.34370000  0.37030000  0.16900000
+  Y3  Y  0.00000000  0.34110000  0.00000000  0.14500000
+  Y4  Y  0.00000000  0.00000000  0.00000000  0.41300000
+  Y5  Y  0.00000000  0.50000000  0.50000000  0.29650000
+  Cl6  Cl  0.24760000  0.16730000  0.23950000  0.47100000
+  Cl7  Cl  0.81450000  0.00000000  0.21650000  0.46100000
+  Br8  Br  0.24760000  0.16730000  0.23950000  0.29400000
+  Br9  Br  0.81450000  0.00000000  0.21650000  0.30600000
+  O10  O  0.24760000  0.16730000  0.23950000  0.06800000
+  O11  O  0.81450000  0.00000000  0.21650000  0.06500000

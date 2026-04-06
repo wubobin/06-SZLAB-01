@@ -1,0 +1,51 @@
+# strict-generated from source JSON
+data_Lithium-Deficient-Halide-Solid_Lithium-Deficient-Halide-Solid__s001
+_symmetry_space_group_name_H-M   'P-3m1'
+_symmetry_Int_Tables_number   164
+_cell_length_a   10.91310000
+_cell_length_b   10.91310000
+_cell_length_c   5.91670000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_chemical_formula_structural   Li1.725Ta0.275Zr0.725Cl6
+_chemical_formula_sum   'Li1.725Ta0.275Zr0.725Cl6'
+
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  '-x+y, -x, z'
+  2  '-x+y, y, z'
+  3  '-x, -x+y, -z'
+  4  '-x, -y, -z'
+  5  '-y, -x, z'
+  6  '-y, x-y, z'
+  7  'x, x-y, z'
+  8  'x, y, z'
+  9  'x-y, -y, -z'
+  10  'x-y, x, -z'
+  11  'y, -x+y, -z'
+  12  'y, x, -z'
+
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li0  Li  6  g  0.35100000  0.00000000  0.00000000  0.62000000
+  Li1  Li  6  h  0.35000000  0.00000000  0.50000000  0.23000000
+  Zr2  Zr  1  a  0.00000000  0.00000000  0.00000000  0.16000000
+  Ta3  Ta  1  a  0.00000000  0.00000000  0.00000000  0.06000000
+  Zr4  Zr  2  d  0.33333000  0.66667000  0.52800000  0.40000000
+  Ta5  Ta  2  d  0.33333000  0.66667000  0.52800000  0.15000000
+  Zr6  Zr  1  b  0.00000000  0.00000000  0.50000000  0.72500000
+  Ta7  Ta  1  b  0.00000000  0.00000000  0.50000000  0.27500000
+  Zr8  Zr  2  d  0.33333000  0.66667000  0.98900000  0.23000000
+  Ta9  Ta  2  d  0.33333000  0.66667000  0.98900000  0.10000000
+  Cl10  Cl  6  i  0.10510000  -0.10510000  0.74450000  1.00000000
+  Cl11  Cl  6  i  0.22840000  -0.22840000  0.28610000  1.00000000
+  Cl12  Cl  6  i  0.44130000  -0.44130000  0.76850000  1.00000000

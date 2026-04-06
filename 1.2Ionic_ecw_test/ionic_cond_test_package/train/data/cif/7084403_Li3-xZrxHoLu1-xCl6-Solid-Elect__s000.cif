@@ -1,0 +1,46 @@
+# strict-generated from source JSON
+data_7084403_Li3-xZrxHoLu1-xCl6-Solid-Elect__s000
+_symmetry_space_group_name_H-M   'P-3m1'
+_symmetry_Int_Tables_number   164
+_cell_length_a   11.18598000
+_cell_length_b   11.18598000
+_cell_length_c   6.02966000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_chemical_formula_structural   Li3HoCl6
+_chemical_formula_sum   'Li3HoCl6'
+
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  '-x+y, -x, z'
+  2  '-x+y, y, z'
+  3  '-x, -x+y, -z'
+  4  '-x, -y, -z'
+  5  '-y, -x, z'
+  6  '-y, x-y, z'
+  7  'x, x-y, z'
+  8  'x, y, z'
+  9  'x-y, -y, -z'
+  10  'x-y, x, -z'
+  11  'y, -x+y, -z'
+  12  'y, x, -z'
+
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li0  Li  6  h  0.32700000  0.00000000  0.50000000  0.64400000
+  Li1  Li  6  g  0.34100000  0.00000000  0.00000000  0.85600000
+  Ho2  Ho  2  d  0.33333000  0.66667000  0.00042000  0.08500000
+  Ho3  Ho  2  d  0.33333000  0.66667000  0.51000000  0.91500000
+  Ho4  Ho  1  a  0.00000000  0.00000000  0.00000000  1.00000000
+  Cl5  Cl  6  i  0.22040000  0.77960000  0.26890000  1.00000000
+  Cl6  Cl  6  i  0.55460000  0.44540000  0.24460000  1.00000000
+  Cl7  Cl  6  i  0.88670000  0.11330000  0.23530000  1.00000000

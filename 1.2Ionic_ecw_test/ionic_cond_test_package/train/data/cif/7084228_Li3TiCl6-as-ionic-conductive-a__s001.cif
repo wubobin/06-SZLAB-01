@@ -1,0 +1,36 @@
+# no-wyckoff strict-generated from source JSON
+data_7084228_Li3TiCl6-as-ionic-conductive-a__s001
+_symmetry_space_group_name_H-M   'C2/m'
+_symmetry_Int_Tables_number   12
+_cell_length_a   6.34990000
+_cell_length_b   10.89080000
+_cell_length_c   6.35260000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   110.12000000
+_cell_angle_gamma   90.00000000
+
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  '-x+1/2, -y+1/2, -z'
+  2  '-x+1/2, y+1/2, -z'
+  3  '-x, -y, -z'
+  4  '-x, y, -z'
+  5  'x+1/2, -y+1/2, z'
+  6  'x+1/2, y+1/2, z'
+  7  'x, -y, z'
+  8  'x, y, z'
+
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li0  Li  0.00000000  0.17000000  0.50000000  1.00000000
+  Li1  Li  0.50000000  0.00000000  0.50000000  1.00000000
+  Ti2  Ti  0.00000000  0.00000000  0.00000000  0.75400000
+  Ti3  Ti  0.00000000  0.32950000  0.00000000  0.12300000
+  Cl4  Cl  0.24210000  0.16265000  0.23640000  1.00000000
+  Cl5  Cl  0.24060000  0.00000000  -0.23020000  1.00000000

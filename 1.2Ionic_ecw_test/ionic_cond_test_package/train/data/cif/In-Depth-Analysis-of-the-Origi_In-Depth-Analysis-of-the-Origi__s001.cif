@@ -1,0 +1,43 @@
+# strict-generated from source JSON
+data_In-Depth-Analysis-of-the-Origi_In-Depth-Analysis-of-the-Origi__s001
+_symmetry_space_group_name_H-M   'C2/m'
+_symmetry_Int_Tables_number   12
+_cell_length_a   6.35430000
+_cell_length_b   11.10650000
+_cell_length_c   6.27630000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   108.90670000
+_cell_angle_gamma   90.00000000
+_chemical_formula_structural   Li2ZrCl5.8S0.1
+_chemical_formula_sum   'Li2ZrCl5.8S0.1'
+
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  '-x+1/2, -y+1/2, -z'
+  2  '-x+1/2, y+1/2, -z'
+  3  '-x, -y, -z'
+  4  '-x, y, -z'
+  5  'x+1/2, -y+1/2, z'
+  6  'x+1/2, y+1/2, z'
+  7  'x, -y, z'
+  8  'x, y, z'
+
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li0  Li  4  h  0.00000000  0.14950000  0.00000000  0.29200000
+  Li1  Li  2  d  0.50000000  0.00000000  0.50000000  0.83400000
+  Zr2  Zr  2  d  0.50000000  0.00000000  0.50000000  0.16600000
+  Zr3  Zr  2  a  0.00000000  0.00000000  0.00000000  0.17900000
+  Zr4  Zr  4  g  0.00000000  0.35268000  0.00000000  0.32900000
+  Li5  Li  4  g  0.00000000  0.29500000  0.00000000  0.30000000
+  Cl6  Cl  8  j  0.22874000  0.17074000  0.25398000  0.98000000
+  Cl7  Cl  4  i  0.23955000  0.00000000  0.78487000  0.94000000
+  S8  S  4  i  0.23955000  0.00000000  0.78487000  0.06000000

@@ -1,0 +1,200 @@
+{
+  "rebuilt_path": "D:\\workspace\\test_dagang\\test_ecw_0304_final\\ecw_window_test_package\\train\\outputs\\feature_matrix_final_20.csv",
+  "reference_path": "D:\\workspace\\test_dagang\\test_ecw_0304_final\\ecw_window_test_package\\test\\feature_matrix.csv",
+  "summary_csv": "D:\\workspace\\test_dagang\\test_ecw_0304_final\\ecw_window_test_package\\train\\outputs\\descriptor_comparison_summary.csv",
+  "summary_json": "D:\\workspace\\test_dagang\\test_ecw_0304_final\\ecw_window_test_package\\train\\outputs\\descriptor_comparison_summary.json",
+  "row_count": 15968,
+  "all_exact_equal": false,
+  "all_allclose_at_1e-12": true,
+  "columns": [
+    {
+      "column": "Window Length (V)",
+      "exact_equal": true,
+      "allclose_at_1e-12": true,
+      "max_abs_diff": 0.0,
+      "mean_abs_diff": 0.0,
+      "mismatch_count_exact": 0,
+      "mismatch_count_allclose": 0
+    },
+    {
+      "column": "Bandgap",
+      "exact_equal": true,
+      "allclose_at_1e-12": true,
+      "max_abs_diff": 0.0,
+      "mean_abs_diff": 0.0,
+      "mismatch_count_exact": 0,
+      "mismatch_count_allclose": 0
+    },
+    {
+      "column": "packing_fraction",
+      "exact_equal": true,
+      "allclose_at_1e-12": true,
+      "max_abs_diff": 0.0,
+      "mean_abs_diff": 0.0,
+      "mismatch_count_exact": 0,
+      "mismatch_count_allclose": 0
+    },
+    {
+      "column": "wavg_GSbandgap",
+      "exact_equal": false,
+      "allclose_at_1e-12": true,
+      "max_abs_diff": 8.881784197001252e-16,
+      "mean_abs_diff": 9.29067833576757e-19,
+      "mismatch_count_exact": 82,
+      "mismatch_count_allclose": 0
+    },
+    {
+      "column": "wavg_IsNonmetal",
+      "exact_equal": false,
+      "allclose_at_1e-12": true,
+      "max_abs_diff": 3.3306690738754696e-16,
+      "mean_abs_diff": 3.3338673616468097e-18,
+      "mismatch_count_exact": 463,
+      "mismatch_count_allclose": 0
+    },
+    {
+      "column": "wavg_ZungerPP-r_sigma",
+      "exact_equal": false,
+      "allclose_at_1e-12": true,
+      "max_abs_diff": 6.661338147750939e-16,
+      "mean_abs_diff": 6.9041299063926635e-18,
+      "mismatch_count_exact": 367,
+      "mismatch_count_allclose": 0
+    },
+    {
+      "column": "wavg_phi_Miedema",
+      "exact_equal": false,
+      "allclose_at_1e-12": true,
+      "max_abs_diff": 2.6645352591003757e-15,
+      "mean_abs_diff": 2.831179957586196e-17,
+      "mismatch_count_exact": 563,
+      "mismatch_count_allclose": 0
+    },
+    {
+      "column": "n_elements",
+      "exact_equal": true,
+      "allclose_at_1e-12": true,
+      "max_abs_diff": 0.0,
+      "mean_abs_diff": 0.0,
+      "mismatch_count_exact": 0,
+      "mismatch_count_allclose": 0
+    },
+    {
+      "column": "wavg_NdValence",
+      "exact_equal": false,
+      "allclose_at_1e-12": true,
+      "max_abs_diff": 1.7763568394002505e-15,
+      "mean_abs_diff": 1.1576411172350235e-17,
+      "mismatch_count_exact": 426,
+      "mismatch_count_allclose": 0
+    },
+    {
+      "column": "wavg_NsValence",
+      "exact_equal": false,
+      "allclose_at_1e-12": true,
+      "max_abs_diff": 1.1102230246251565e-15,
+      "mean_abs_diff": 1.3947315802843588e-17,
+      "mismatch_count_exact": 667,
+      "mismatch_count_allclose": 0
+    },
+    {
+      "column": "VolumePerAtom",
+      "exact_equal": false,
+      "allclose_at_1e-12": true,
+      "max_abs_diff": 3.552713678800501e-15,
+      "mean_abs_diff": 7.564645859169403e-18,
+      "mismatch_count_exact": 34,
+      "mismatch_count_allclose": 0
+    },
+    {
+      "column": "wavg_Electronegativity",
+      "exact_equal": false,
+      "allclose_at_1e-12": true,
+      "max_abs_diff": 1.3322676295501878e-15,
+      "mean_abs_diff": 2.055247533061099e-17,
+      "mismatch_count_exact": 549,
+      "mismatch_count_allclose": 0
+    },
+    {
+      "column": "wavg_Anion_Electronegativity",
+      "exact_equal": true,
+      "allclose_at_1e-12": true,
+      "max_abs_diff": 0.0,
+      "mean_abs_diff": 0.0,
+      "mismatch_count_exact": 0,
+      "mismatch_count_allclose": 0
+    },
+    {
+      "column": "wavg_NdUnfilled",
+      "exact_equal": false,
+      "allclose_at_1e-12": true,
+      "max_abs_diff": 8.881784197001252e-16,
+      "mean_abs_diff": 9.528811718742342e-18,
+      "mismatch_count_exact": 416,
+      "mismatch_count_allclose": 0
+    },
+    {
+      "column": "wavg_GSestFCClatcnt",
+      "exact_equal": false,
+      "allclose_at_1e-12": true,
+      "max_abs_diff": 1.7763568394002505e-15,
+      "mean_abs_diff": 2.7922442803698824e-17,
+      "mismatch_count_exact": 627,
+      "mismatch_count_allclose": 0
+    },
+    {
+      "column": "wavg_HeatCapacityMolar",
+      "exact_equal": false,
+      "allclose_at_1e-12": true,
+      "max_abs_diff": 1.4210854715202004e-14,
+      "mean_abs_diff": 2.9746857393263214e-16,
+      "mismatch_count_exact": 990,
+      "mismatch_count_allclose": 0
+    },
+    {
+      "column": "wavg_FirstIonizationEnergy",
+      "exact_equal": false,
+      "allclose_at_1e-12": true,
+      "max_abs_diff": 5.329070518200751e-15,
+      "mean_abs_diff": 7.225349243427246e-17,
+      "mismatch_count_exact": 396,
+      "mismatch_count_allclose": 0
+    },
+    {
+      "column": "wavg_GSmagmom",
+      "exact_equal": false,
+      "allclose_at_1e-12": true,
+      "max_abs_diff": 2.220446049250313e-16,
+      "mean_abs_diff": 1.0608386135632192e-18,
+      "mismatch_count_exact": 238,
+      "mismatch_count_allclose": 0
+    },
+    {
+      "column": "wavg_MeltingT",
+      "exact_equal": false,
+      "allclose_at_1e-12": true,
+      "max_abs_diff": 4.547473508864641e-13,
+      "mean_abs_diff": 4.378595014954525e-15,
+      "mismatch_count_exact": 507,
+      "mismatch_count_allclose": 0
+    },
+    {
+      "column": "wavg_ElectronAffinity",
+      "exact_equal": false,
+      "allclose_at_1e-12": true,
+      "max_abs_diff": 5.684341886080802e-14,
+      "mean_abs_diff": 5.617861998353748e-16,
+      "mismatch_count_exact": 361,
+      "mismatch_count_allclose": 0
+    },
+    {
+      "column": "wavg_CovalentRadius",
+      "exact_equal": false,
+      "allclose_at_1e-12": true,
+      "max_abs_diff": 5.684341886080802e-14,
+      "mean_abs_diff": 3.764523762857244e-16,
+      "mismatch_count_exact": 269,
+      "mismatch_count_allclose": 0
+    }
+  ]
+}

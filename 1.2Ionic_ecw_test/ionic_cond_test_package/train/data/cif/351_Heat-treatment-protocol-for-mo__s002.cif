@@ -1,0 +1,39 @@
+# no-wyckoff strict-generated from source JSON
+data_351_Heat-treatment-protocol-for-mo__s002
+_symmetry_space_group_name_H-M   'Pnma'
+_symmetry_Int_Tables_number   62
+_cell_length_a   12.10550000
+_cell_length_b   11.18436000
+_cell_length_c   6.43896000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  '-x+1/2, -y, z+1/2'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z'
+  4  '-x-1/2, y-1/2, z-1/2'
+  5  'x+1/2, -y+1/2, -z+1/2'
+  6  'x, -y-1/2, z'
+  7  'x, y, z'
+  8  'x-1/2, y, -z-1/2'
+
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li0  Li  0.13180000  0.08670000  0.07790000  0.75600000
+  Li1  Li  0.37980000  0.07690000  0.09050000  0.24400000
+  Li2  Li  0.55820000  0.08740000  0.08700000  0.15600000
+  Cl3  Cl  0.01028000  0.58416000  0.24753000  1.00000000
+  Cl4  Cl  0.25700000  0.08679000  0.42217000  1.00000000
+  Cl5  Cl  0.00110000  0.25000000  0.23503000  0.50000000
+  Cl6  Cl  0.75583000  0.25000000  0.57757000  0.50000000
+  Yb7  Yb  0.36698000  0.25000000  0.58957000  0.30000000
+  Hf8  Hf  0.36698000  0.25000000  0.58957000  0.20000000

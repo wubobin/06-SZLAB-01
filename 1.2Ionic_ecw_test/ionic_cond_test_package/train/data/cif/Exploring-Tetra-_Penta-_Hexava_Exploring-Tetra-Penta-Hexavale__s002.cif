@@ -1,0 +1,48 @@
+# strict-generated from source JSON
+data_Exploring-Tetra-_Penta-_Hexava_Exploring-Tetra-Penta-Hexavale__s002
+_symmetry_space_group_name_H-M   'P-3m1'
+_symmetry_Int_Tables_number   164
+_cell_length_a   11.18242000
+_cell_length_b   11.18242000
+_cell_length_c   6.04958000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_chemical_formula_structural   Li2.92Y0.96Ta0.04Cl6
+_chemical_formula_sum   'Li2.92Y0.96Ta0.04Cl6'
+
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  '-x+y, -x, z'
+  2  '-x+y, y, z'
+  3  '-x, -x+y, -z'
+  4  '-x, -y, -z'
+  5  '-y, -x, z'
+  6  '-y, x-y, z'
+  7  'x, x-y, z'
+  8  'x, y, z'
+  9  'x-y, -y, -z'
+  10  'x-y, x, -z'
+  11  'y, -x+y, -z'
+  12  'y, x, -z'
+
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li0  Li  6  h  0.32367500  0.00000000  0.50000000  0.69400000
+  Li1  Li  6  g  0.35276500  0.00000000  0.00000000  0.82900000
+  Y2  Y  2  d  0.33333000  0.66666000  0.03981600  0.03000000
+  Y3  Y  2  d  0.33333000  0.66666000  0.50179400  0.93300000
+  Y4  Y  1  a  0.00000000  0.00000000  0.00000000  0.95400000
+  Ta5  Ta  2  d  0.33333000  0.66666000  0.50179400  0.03900000
+  Ta6  Ta  1  a  0.00000000  0.00000000  0.00000000  0.03500000
+  Cl7  Cl  6  i  0.22087800  0.77912200  0.25483000  1.00000000
+  Cl8  Cl  6  i  0.55350100  0.44649900  0.25809300  1.00000000
+  Cl9  Cl  6  i  0.88584000  0.11416000  0.23633200  1.00000000

@@ -1,0 +1,38 @@
+# no-wyckoff strict-generated from source JSON
+data_Engineering-Cathode-Electrolyt_Engineering-Cathode-Electrolyt__s000
+_symmetry_space_group_name_H-M   'C2/m'
+_symmetry_Int_Tables_number   12
+_cell_length_a   6.46670000
+_cell_length_b   11.18600000
+_cell_length_c   6.44710000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   109.79200000
+_cell_angle_gamma   90.00000000
+
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  '-x+1/2, -y+1/2, -z'
+  2  '-x+1/2, y+1/2, -z'
+  3  '-x, -y, -z'
+  4  '-x, y, -z'
+  5  'x+1/2, -y+1/2, z'
+  6  'x+1/2, y+1/2, z'
+  7  'x, -y, z'
+  8  'x, y, z'
+
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In0  In  0.00000000  0.00000000  0.00000000  0.86200000
+  In1  In  0.00000000  0.32900000  0.00000000  0.13800000
+  Li2  Li  0.00000000  0.32900000  0.00000000  0.39000000
+  Cl3  Cl  0.23900000  0.00000000  0.76300000  1.00000000
+  Cl4  Cl  0.24400000  0.15700000  0.23300000  1.00000000
+  Li5  Li  0.50000000  0.00000000  0.50000000  0.54000000
+  Li6  Li  0.00000000  0.15200000  0.50000000  0.49000000
+  Li7  Li  0.62500000  0.83300000  0.38900000  0.17000000

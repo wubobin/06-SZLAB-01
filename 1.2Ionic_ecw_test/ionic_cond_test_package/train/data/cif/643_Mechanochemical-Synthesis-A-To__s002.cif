@@ -1,0 +1,42 @@
+# no-wyckoff strict-generated from source JSON
+data_643_Mechanochemical-Synthesis-A-To__s002
+_symmetry_space_group_name_H-M   'P-3m1'
+_symmetry_Int_Tables_number   164
+_cell_length_a   11.16892000
+_cell_length_b   11.16892000
+_cell_length_c   6.02670000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  '-x+y, -x, z'
+  2  '-x+y, y, z'
+  3  '-x, -x+y, -z'
+  4  '-x, -y, -z'
+  5  '-y, -x, z'
+  6  '-y, x-y, z'
+  7  'x, x-y, z'
+  8  'x, y, z'
+  9  'x-y, -y, -z'
+  10  'x-y, x, -z'
+  11  'y, -x+y, -z'
+  12  'y, x, -z'
+
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er0  Er  0.00000000  0.00000000  0.00000000  1.00000000
+  Er1  Er  0.33330000  0.66660000  0.51270000  0.97500000
+  Er2  Er  0.33330000  0.66660000  -0.03000000  0.02500000
+  Cl3  Cl  0.11420000  -0.11420000  0.76990000  1.00000000
+  Cl4  Cl  0.22000000  -0.22000000  0.26510000  1.00000000
+  Cl5  Cl  0.44500000  -0.44500000  0.75610000  1.00000000
+  Li6  Li  0.33970000  0.33970000  0.00000000  1.00000000
+  Li7  Li  0.33970000  0.33970000  0.50000000  0.50000000

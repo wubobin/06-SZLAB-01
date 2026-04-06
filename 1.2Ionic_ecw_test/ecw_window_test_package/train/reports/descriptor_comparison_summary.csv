@@ -1,0 +1,22 @@
+column,exact_equal,allclose_at_1e-12,max_abs_diff,mean_abs_diff,mismatch_count_exact,mismatch_count_allclose
+Window Length (V),True,True,0.0,0.0,0,0
+Bandgap,True,True,0.0,0.0,0,0
+packing_fraction,True,True,0.0,0.0,0,0
+wavg_GSbandgap,False,True,8.881784197001252e-16,9.29067833576757e-19,82,0
+wavg_IsNonmetal,False,True,3.3306690738754696e-16,3.3338673616468097e-18,463,0
+wavg_ZungerPP-r_sigma,False,True,6.661338147750939e-16,6.9041299063926635e-18,367,0
+wavg_phi_Miedema,False,True,2.6645352591003757e-15,2.831179957586196e-17,563,0
+n_elements,True,True,0.0,0.0,0,0
+wavg_NdValence,False,True,1.7763568394002505e-15,1.1576411172350235e-17,426,0
+wavg_NsValence,False,True,1.1102230246251565e-15,1.3947315802843588e-17,667,0
+VolumePerAtom,False,True,3.552713678800501e-15,7.564645859169403e-18,34,0
+wavg_Electronegativity,False,True,1.3322676295501878e-15,2.055247533061099e-17,549,0
+wavg_Anion_Electronegativity,True,True,0.0,0.0,0,0
+wavg_NdUnfilled,False,True,8.881784197001252e-16,9.528811718742342e-18,416,0
+wavg_GSestFCClatcnt,False,True,1.7763568394002505e-15,2.7922442803698824e-17,627,0
+wavg_HeatCapacityMolar,False,True,1.4210854715202004e-14,2.9746857393263214e-16,990,0
+wavg_FirstIonizationEnergy,False,True,5.329070518200751e-15,7.225349243427246e-17,396,0
+wavg_GSmagmom,False,True,2.220446049250313e-16,1.0608386135632192e-18,238,0
+wavg_MeltingT,False,True,4.547473508864641e-13,4.378595014954525e-15,507,0
+wavg_ElectronAffinity,False,True,5.684341886080802e-14,5.617861998353748e-16,361,0
+wavg_CovalentRadius,False,True,5.684341886080802e-14,3.764523762857244e-16,269,0

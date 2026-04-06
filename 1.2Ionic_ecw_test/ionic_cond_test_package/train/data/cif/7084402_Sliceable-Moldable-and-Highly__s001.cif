@@ -1,0 +1,44 @@
+# strict-generated from source JSON
+data_7084402_Sliceable-Moldable-and-Highly__s001
+_symmetry_space_group_name_H-M   'C2/m'
+_symmetry_Int_Tables_number   12
+_cell_length_a   6.91300000
+_cell_length_b   11.96400000
+_cell_length_c   6.85100000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   109.83600000
+_cell_angle_gamma   90.00000000
+_chemical_formula_structural   Li2.65YBr5.65
+_chemical_formula_sum   'Li2.65YBr5.65'
+
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  '-x+1/2, -y+1/2, -z'
+  2  '-x+1/2, y+1/2, -z'
+  3  '-x, -y, -z'
+  4  '-x, y, -z'
+  5  'x+1/2, -y+1/2, z'
+  6  'x+1/2, y+1/2, z'
+  7  'x, -y, z'
+  8  'x, y, z'
+
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li0  Li  4  g  0.50000000  0.84200000  0.00000000  0.42000000
+  Li1  Li  4  h  0.00000000  0.17400000  0.50000000  0.24000000
+  Li2  Li  2  d  0.50000000  0.00000000  0.50000000  0.26000000
+  Li3  Li  8  j  0.87500000  0.17500000  0.15300000  0.27000000
+  Li4  Li  2  a  0.00000000  0.00000000  0.00000000  0.12000000
+  Y5  Y  2  a  0.00000000  0.00000000  0.00000000  0.56000000
+  Y6  Y  4  g  0.50000000  0.84200000  0.00000000  0.19000000
+  Y7  Y  2  d  0.50000000  0.00000000  0.50000000  0.13000000
+  Br8  Br  4  i  0.76330000  0.00000000  0.23930000  1.00000000
+  Br9  Br  8  j  0.25080000  0.83170000  0.24050000  1.00000000

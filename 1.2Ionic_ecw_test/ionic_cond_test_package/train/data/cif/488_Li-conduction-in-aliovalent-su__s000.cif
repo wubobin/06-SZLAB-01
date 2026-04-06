@@ -1,0 +1,38 @@
+# no-wyckoff strict-generated from source JSON
+data_488_Li-conduction-in-aliovalent-su__s000
+_symmetry_space_group_name_H-M   'C2/m'
+_symmetry_Int_Tables_number   12
+_cell_length_a   6.39460000
+_cell_length_b   11.04740000
+_cell_length_c   6.29630000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   109.89900000
+_cell_angle_gamma   90.00000000
+
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  '-x+1/2, -y+1/2, -z'
+  2  '-x+1/2, y+1/2, -z'
+  3  '-x, -y, -z'
+  4  '-x, y, -z'
+  5  'x+1/2, -y+1/2, z'
+  6  'x+1/2, y+1/2, z'
+  7  'x, -y, z'
+  8  'x, y, z'
+
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li0  Li  0.50000000  0.00000000  0.50000000  0.15000000
+  Zr1  Zr  0.50000000  0.00000000  0.50000000  0.10000000
+  Li2  Li  0.00000000  0.18000000  0.50000000  0.10000000
+  Zr3  Zr  0.00000000  0.00000000  0.00000000  0.77000000
+  Zr4  Zr  0.00000000  0.32500000  0.00000000  0.06000000
+  Li5  Li  0.00000000  0.32500000  0.00000000  0.86000000
+  Cl6  Cl  0.24290000  0.00000000  0.76570000  1.00000000
+  Cl7  Cl  0.24260000  0.16010000  0.23540000  1.00000000

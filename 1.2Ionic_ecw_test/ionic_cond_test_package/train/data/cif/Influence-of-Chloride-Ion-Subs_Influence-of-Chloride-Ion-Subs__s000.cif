@@ -1,0 +1,42 @@
+# strict-generated from source JSON
+data_Influence-of-Chloride-Ion-Subs_Influence-of-Chloride-Ion-Subs__s000
+_symmetry_space_group_name_H-M   'P-31m'
+_symmetry_Int_Tables_number   162
+_cell_length_a   4.98410000
+_cell_length_b   4.98410000
+_cell_length_c   4.66320000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_chemical_formula_structural   Li2ZrF5Cl1
+_chemical_formula_sum   'Li2ZrF5Cl1'
+
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  '-x+y, -x, z'
+  2  '-x+y, y, -z'
+  3  '-x, -x+y, z'
+  4  '-x, -y, -z'
+  5  '-y, -x, -z'
+  6  '-y, x-y, z'
+  7  'x, x-y, -z'
+  8  'x, y, z'
+  9  'x-y, -y, z'
+  10  'x-y, x, -z'
+  11  'y, -x+y, -z'
+  12  'y, x, z'
+
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr0  Zr  1  a  0.00000000  0.00000000  0.00000000  1.00000000
+  Li1  Li  2  d  0.33330000  0.66670000  0.50000000  1.00000000
+  F2  F  6  k  0.33300000  0.00000000  0.24010000  0.83300000
+  Cl3  Cl  6  k  0.30190000  0.00000000  0.29910000  0.15800000

@@ -1,0 +1,24 @@
+{
+  "selected_features": [
+    "Bandgap",
+    "packing_fraction",
+    "wavg_GSbandgap",
+    "wavg_IsNonmetal",
+    "wavg_ZungerPP-r_sigma",
+    "wavg_phi_Miedema",
+    "n_elements",
+    "wavg_NdValence",
+    "wavg_NsValence",
+    "VolumePerAtom",
+    "wavg_Electronegativity",
+    "wavg_Anion_Electronegativity",
+    "wavg_NdUnfilled",
+    "wavg_GSestFCClatcnt",
+    "wavg_HeatCapacityMolar",
+    "wavg_FirstIonizationEnergy",
+    "wavg_GSmagmom",
+    "wavg_MeltingT",
+    "wavg_ElectronAffinity",
+    "wavg_CovalentRadius"
+  ]
+}

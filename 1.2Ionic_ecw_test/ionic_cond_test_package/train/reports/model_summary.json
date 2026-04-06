@@ -1,0 +1,73 @@
+{
+  "model": "XGBoost (single model)",
+  "target": "log10_ionic_conductivity",
+  "n_features": 20,
+  "feature_list": [
+    "n_elements",
+    "x_li",
+    "wavg_AtomicNumber",
+    "wavg_AtomicWeight",
+    "wavg_CovalentRadius",
+    "ratio_CationToAnionIonicPotential",
+    "x_HalideTotal",
+    "anion_MixEntropy",
+    "AnionCation_PhiGap",
+    "LiPhi_Coupling",
+    "LiHalide_Coupling",
+    "Density",
+    "VolumePerAtom",
+    "SpaceGroupNumber",
+    "LatticeA",
+    "LatticeB",
+    "LatticeC",
+    "LatticeAlpha",
+    "LatticeBeta",
+    "LatticeGamma"
+  ],
+  "split_seed": 55,
+  "n_train": 136,
+  "n_test": 35,
+  "test_split_ratio": 0.2,
+  "optuna_trials": 100,
+  "cv_folds": 5,
+  "best_params": {
+    "n_estimators": 727,
+    "max_depth": 9,
+    "learning_rate": 0.16043159941695556,
+    "subsample": 0.600379835500918,
+    "colsample_bytree": 0.9476438345593615,
+    "min_child_weight": 2.3405174661277037,
+    "gamma": 0.6450549035667705,
+    "reg_alpha": 2.1072274507455447e-05,
+    "reg_lambda": 4.1570142768446117e-05
+  },
+  "metrics": {
+    "train_r2": 0.9146,
+    "train_mae": 0.1952,
+    "test_r2": 0.8234,
+    "test_mae": 0.2566
+  },
+  "target_met": true,
+  "shap_top5": [
+    {
+      "feature": "LiPhi_Coupling",
+      "mean_abs_shap": 0.12411964684724808
+    },
+    {
+      "feature": "n_elements",
+      "mean_abs_shap": 0.12362738698720932
+    },
+    {
+      "feature": "LatticeC",
+      "mean_abs_shap": 0.12029130011796951
+    },
+    {
+      "feature": "LatticeB",
+      "mean_abs_shap": 0.09351179748773575
+    },
+    {
+      "feature": "LiHalide_Coupling",
+      "mean_abs_shap": 0.06291542947292328
+    }
+  ]
+}

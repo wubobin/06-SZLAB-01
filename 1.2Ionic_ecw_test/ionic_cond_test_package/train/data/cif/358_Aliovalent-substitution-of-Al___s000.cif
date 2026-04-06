@@ -1,0 +1,51 @@
+# strict-generated from source JSON
+data_358_Aliovalent-substitution-of-Al___s000
+_symmetry_space_group_name_H-M   'P-3m1'
+_symmetry_Int_Tables_number   164
+_cell_length_a   10.98158000
+_cell_length_b   10.98158000
+_cell_length_c   5.94743000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_chemical_formula_structural   Li2.25Zr0.75Al0.25Cl6
+_chemical_formula_sum   'Li2.25Zr0.75Al0.25Cl6'
+
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  '-x+y, -x, z'
+  2  '-x+y, y, z'
+  3  '-x, -x+y, -z'
+  4  '-x, -y, -z'
+  5  '-y, -x, z'
+  6  '-y, x-y, z'
+  7  'x, x-y, z'
+  8  'x, y, z'
+  9  'x-y, -y, -z'
+  10  'x-y, x, -z'
+  11  'y, -x+y, -z'
+  12  'y, x, -z'
+
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li0  Li  6  g  0.31000000  0.00000000  0.00000000  0.37500000
+  Li1  Li  6  h  0.32200000  0.00000000  0.50000000  0.75000000
+  Zr2  Zr  1  a  0.00000000  0.00000000  0.00000000  0.27690000
+  Zr3  Zr  2  d  0.33330000  0.66670000  0.51760000  0.38110000
+  Zr4  Zr  1  b  0.00000000  0.00000000  0.50000000  0.40030000
+  Zr5  Zr  2  d  0.33330000  0.66670000  0.97560000  0.40530000
+  Cl6  Cl  6  i  0.09880000  0.88240000  0.73680000  1.00000000
+  Cl7  Cl  6  i  0.21890000  0.76700000  0.25130000  1.00000000
+  Cl8  Cl  6  i  0.44400000  0.55080000  0.76760000  1.00000000
+  Al9  Al  1  a  0.00000000  0.00000000  0.00000000  0.13130000
+  Al10  Al  2  d  0.33330000  0.66670000  0.50390000  0.16940000
+  Al11  Al  1  b  0.00000000  0.00000000  0.50000000  0.11350000
+  Al12  Al  2  d  0.33330000  0.66670000  0.97910000  0.08320000

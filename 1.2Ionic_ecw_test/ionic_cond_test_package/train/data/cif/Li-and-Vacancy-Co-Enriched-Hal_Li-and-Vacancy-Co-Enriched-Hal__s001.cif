@@ -1,0 +1,47 @@
+# no-wyckoff strict-generated from source JSON
+data_Li-and-Vacancy-Co-Enriched-Hal_Li-and-Vacancy-Co-Enriched-Hal__s001
+_symmetry_space_group_name_H-M   'P-3m1'
+_symmetry_Int_Tables_number   164
+_cell_length_a   10.93420000
+_cell_length_b   10.93420000
+_cell_length_c   5.91942000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  '-x+y, -x, z'
+  2  '-x+y, y, z'
+  3  '-x, -x+y, -z'
+  4  '-x, -y, -z'
+  5  '-y, -x, z'
+  6  '-y, x-y, z'
+  7  'x, x-y, z'
+  8  'x, y, z'
+  9  'x-y, -y, -z'
+  10  'x-y, x, -z'
+  11  'y, -x+y, -z'
+  12  'y, x, -z'
+
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl0  Cl  0.11900000  -0.11900000  0.77200000  1.00000000
+  Cl1  Cl  0.21800000  -0.21800000  0.28330000  1.00000000
+  Cl2  Cl  0.43120000  -0.43120000  0.74760000  1.00000000
+  Li3  Li  0.31231000  0.00000000  0.00000000  0.50100000
+  Li4  Li  0.34200000  0.00000000  0.50000000  0.29900000
+  Zr5  Zr  0.00000000  0.00000000  0.00000000  0.26500000
+  Ta6  Ta  0.00000000  0.00000000  0.00000000  0.17700000
+  Zr7  Zr  0.33333000  0.66667000  0.51141000  0.34400000
+  Ta8  Ta  0.33333000  0.66667000  0.51141000  0.22900000
+  Zr9  Zr  0.00000000  0.00000000  0.50000000  0.34300000
+  Ta10  Ta  0.00000000  0.00000000  0.50000000  0.22900000
+  Zr11  Zr  0.33333000  0.66667000  0.94210000  0.25200000
+  Ta12  Ta  0.33333000  0.66667000  0.94210000  0.16800000

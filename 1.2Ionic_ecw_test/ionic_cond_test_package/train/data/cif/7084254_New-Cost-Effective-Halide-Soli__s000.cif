@@ -1,0 +1,40 @@
+# strict-generated from source JSON
+data_7084254_New-Cost-Effective-Halide-Soli__s000
+_symmetry_space_group_name_H-M   'C2/m'
+_symmetry_Int_Tables_number   12
+_cell_length_a   6.38620000
+_cell_length_b   11.05150000
+_cell_length_c   6.29880000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   110.10590000
+_cell_angle_gamma   90.00000000
+_chemical_formula_structural   Li2ZrCl6
+_chemical_formula_sum   'Li2ZrCl6'
+
+loop_
+ _space_group_symop_id
+ _space_group_symop_operation_xyz
+  1  '-x+1/2, -y+1/2, -z'
+  2  '-x+1/2, y+1/2, -z'
+  3  '-x, -y, -z'
+  4  '-x, y, -z'
+  5  'x+1/2, -y+1/2, z'
+  6  'x+1/2, y+1/2, z'
+  7  'x, -y, z'
+  8  'x, y, z'
+
+loop_
+ _atom_site_label
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_symbol
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li0  Li  2  d  0.50000000  0.00000000  0.50000000  0.42200000
+  Li1  Li  4  h  0.00000000  0.16830000  0.50000000  0.78900000
+  Zr2  Zr  4  g  0.00000000  0.33330000  0.00000000  0.47400000
+  Zr3  Zr  2  a  0.00000000  0.00000000  0.00000000  0.05200000
+  Cl4  Cl  4  i  0.27686000  0.00000000  -0.21820000  1.00000000
+  Cl5  Cl  8  j  0.22585000  0.17512000  0.22698000  1.00000000
