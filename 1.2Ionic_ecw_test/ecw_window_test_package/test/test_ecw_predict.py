@@ -1,6 +1,6 @@
 """
 关联模型测试脚本
-输入: feature_matrix.csv, top_configs.json
+输入: feature_ecw_matrix.csv, top_configs.json
 输出: result_ecw.csv, result_ecw.json, window_model_rank.joblib, ecw_prediction_result.png
 """
 
@@ -44,7 +44,7 @@ PROTOCOL_FEATURES = [
 ]
 
 # ── 1. 读取描述符矩阵 ─────────────────────────────────────────────────────────
-df = pd.read_csv(BASE_DIR / "feature_matrix.csv")
+df = pd.read_csv(BASE_DIR / "feature_ecw_matrix.csv")
 X = df[PROTOCOL_FEATURES].to_numpy()
 y = df["Window Length (V)"].to_numpy()
 mp_ids = df["MP ID"].to_numpy()

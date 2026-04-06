@@ -23,7 +23,7 @@ echo ">>> CPUs allocated: $SLURM_CPUS_PER_TASK"
 python - << 'EOF'
 """
 SHAP 关键影响因素分析脚本
-输入: feature_matrix.csv, window_model_rank.joblib
+输入: feature_ecw_matrix.csv, window_model_rank.joblib
 输出: key_factors_window_ranking.csv, ecw_shap_feature_importance.png
 """
 
@@ -65,7 +65,7 @@ PROTOCOL_FEATURES = [
 ]
 
 # ── 1. 读取描述符矩阵 ─────────────────────────────────────────────────────────
-df_feat = pd.read_csv(BASE_DIR / "feature_matrix.csv")
+df_feat = pd.read_csv(BASE_DIR / "feature_ecw_matrix.csv")
 X = df_feat[PROTOCOL_FEATURES]
 print(f"Loaded feature matrix: {X.shape}")
 

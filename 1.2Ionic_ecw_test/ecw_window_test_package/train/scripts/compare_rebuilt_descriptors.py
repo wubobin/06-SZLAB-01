@@ -16,7 +16,7 @@ ROOT = Path(__file__).resolve().parent
 TRAIN_ROOT = ROOT.parent
 PACKAGE_ROOT = TRAIN_ROOT.parent
 OUTPUT_DIR = TRAIN_ROOT / "outputs"
-REFERENCE_MATRIX_PATH = PACKAGE_ROOT / "test" / "feature_matrix.csv"
+REFERENCE_MATRIX_PATH = PACKAGE_ROOT / "test" / "feature_ecw_matrix.csv"
 
 
 def _column_summary(rebuilt: pd.Series, reference: pd.Series) -> dict[str, object]:

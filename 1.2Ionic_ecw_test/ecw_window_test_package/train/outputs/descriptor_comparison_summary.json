@@ -1,6 +1,6 @@
 {
   "rebuilt_path": "D:\\workspace\\test_dagang\\test_ecw_0304_final\\ecw_window_test_package\\train\\outputs\\feature_matrix_final_20.csv",
-  "reference_path": "D:\\workspace\\test_dagang\\test_ecw_0304_final\\ecw_window_test_package\\test\\feature_matrix.csv",
+  "reference_path": "D:\\workspace\\test_dagang\\test_ecw_0304_final\\ecw_window_test_package\\test\\feature_ecw_matrix.csv",
   "summary_csv": "D:\\workspace\\test_dagang\\test_ecw_0304_final\\ecw_window_test_package\\train\\outputs\\descriptor_comparison_summary.csv",
   "summary_json": "D:\\workspace\\test_dagang\\test_ecw_0304_final\\ecw_window_test_package\\train\\outputs\\descriptor_comparison_summary.json",
   "row_count": 15968,
